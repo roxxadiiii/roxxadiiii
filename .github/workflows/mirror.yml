@@ -19,7 +19,7 @@ jobs:
         run: |
           # Add remotes
           git remote add codeberg https://$CODEBERG_TOKEN@codeberg.org/roxxadiiii/roxxadiiii.git
-          git remote add sourcehut https://$SOURCEHUT_TOKEN@git.sr.ht/roxxadiiii/roxxadiiii
+          git remote add sourcehut https://$SOURCEHUT_TOKEN@git.sr.ht/~roxxadiiii/roxxadiiii
 
           # Push everything (branches + tags)
           git push --mirror codeberg || echo "Codeberg failed"
