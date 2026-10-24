@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=whoami&color=9ccfd8&font=Fira+Code&size=22&height=36&width=200&vCenter=true&repeat=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=$+whoami&color=9ccfd8&fontJetBrains+Mono=&size=22&height=36&width=200&vCenter=true&repeat=true)](https://git.io/typing-svg)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=roxxadiiii&color=c4a7e7&font=Fira+Code&size=32&height=50&width=300&vCenter=true&repeat=true)](https://git.io/typing-svg)
