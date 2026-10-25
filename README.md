@@ -19,7 +19,8 @@
 ---
 <div align="left">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=root~%24+cat+about_me.md;Self-driven+developer+with+a+strong+interest+in+Linux+systems,+automation,+AI%2FML,+and+web+technologies.+I+build+open-source+projects+spanning+Arch%2FLinux+customization,+AI+assistants,+developer+tooling,+and+web+interfaces+%E2%80%94+usually+with+a+terminal+open+and+a+theme+being+tweaked.&color=9ccfd8&font=JetBrains+Mono&size=16&height=110&width=700&vCenter=true&multiline=true&duration=1800&repeat=false)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=root~%24+cat+about_me&color=9ccfd8&font=JetBrains+Mono&size=18&height=28&width=350&vCenter=true&repeat=false)](https://git.io/typing-svg)
+
 </div>
 
 ---
