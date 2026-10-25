@@ -1,3 +1,4 @@
+---
 <div align="left">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=root~%24+whoami&color=9ccfd8&font=JetBrains+Mono&size=18&height=28&width=350&vCenter=true&repeat=false)](https://git.io/typing-svg)
@@ -6,6 +7,7 @@
 <br>
 
 </div>
+
 ---
 <div align="left">
 
