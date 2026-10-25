@@ -1,7 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=$+whoami&color=9ccfd8&fontJetBrains+Mono=&size=22&height=36&width=200&vCenter=true&repeat=true)](https://git.io/typing-svg)
+<div align="left">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=root~%24+whoami&color=9ccfd8&font=JetBrains+Mono&size=18&height=28&width=350&vCenter=true&repeat=false)](https://git.io/typing-svg)
+<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=roxxadiiii&color=c4a7e7&font=JetBrains+Mono&size=28&height=45&width=300&vCenter=true&delay=1000&repeat=false)](https://git.io/typing-svg)
+<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=root~%24+_&color=9ccfd8&font=JetBrains+Mono&size=18&height=28&width=350&vCenter=true&delay=1800&repeat=false)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=roxxadiiii&color=c4a7e7&font=Fira+Code&size=32&height=50&width=300&vCenter=true&repeat=true)](https://git.io/typing-svg)
+</div>
 
 `linux · automation · ai/ml · web`
 
