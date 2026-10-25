@@ -8,7 +8,12 @@
 
 </div>
 
-`linux · automation · ai/ml · web`
+<div align="left">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=root~%24+id&color=9ccfd8&font=JetBrains+Mono&size=18&height=28&width=350&vCenter=true&repeat=false)](https://git.io/typing-svg)
+
+`uid=1000(roxxadiiii) gid=1000(linux) groups=automation,ai/ml,web`
+</div>
 
 ---
 
