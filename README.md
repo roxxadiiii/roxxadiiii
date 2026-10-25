@@ -15,8 +15,6 @@
 <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=uid=1000(roxxadiiii)+gid=1000(linux)+groups=automation,ai%2Fml,web&color=c4a7e7&font=JetBrains+Mono&size=18&height=28&width=650&vCenter=true&delay=800&repeat=false)](https://git.io/typing-svg)
 <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=root~%24+_&color=9ccfd8&font=JetBrains+Mono&size=18&height=28&width=350&vCenter=true&delay=2500&repeat=false)](https://git.io/typing-svg)
-
 </div>
 ---
 
