@@ -21,7 +21,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=root~%24+cat+about_me&color=9ccfd8&font=JetBrains+Mono&size=18&height=28&width=350&vCenter=true&repeat=false)](https://git.io/typing-svg)
 <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=800&pause=19&color=C4A7E7&multiline=true&repeat=false&width=900&height=400&lines=Self-driven+developer+with+a+strong+interest+in+Linux+systems%2C+automation%2C+;AI%2FML%2Cand+web+technologies.+I+build+open-source+projects+spanning+;Arch%2FLinux+customization%2C+AI+assistants%2C+developer+tooling%2C+and+web;+interfaces+usually+with+a+terminal+open+and+a+theme+being+tweaked.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=800&pause=19&color=C4A7E7&multiline=true&repeat=false&width=900&height=400&lines=Self-driven+developer+with+a+strong+interest+in+Linux+systems%2C+automation%2C+;AI%2FML%2Cand+web+technologies.+I+build+open-source+projects+spanning+;Arch%2FLinux+customization%2C+AI+assistants%2C+developer+tooling%2C+and+web;+interfaces+usually+with+a+terminal+open+and+a+theme+being+tweaked.)](https://git.io/typing-svg)
 </div>
 
 ---
