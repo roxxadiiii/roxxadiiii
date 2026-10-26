@@ -1,9 +1,10 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Love+every+script+that+runs+on+0+and+1;Love+every+system+that+runs+on+0+and+1;Love+every+terminal+that+runs+on+0+and+1;Love+everything+that+runs+on+0+and+1&color=ebbcba&font=JetBrains+Mono&size=16&height=30&width=500&vCenter=true&center=true&repeat=true&duration=2000&pause=1000)](https://git.io/typing-svg)
-
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Love+every+script;Love+every+system;Love+every+terminal;Love+everything&color=ebbcba&font=JetBrains+Mono&size=16&height=30&width=180&center=false&vCenter=true&repeat=true&duration=1500&pause=800" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=+that+runs+on+0+and+1&color=ebbcba&font=JetBrains+Mono&size=16&height=30&width=190&center=false&vCenter=true&repeat=false&duration=1000" />
 </div>
+
 ---
+
 <div align="left">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=root~%24+whoami&color=9ccfd8&font=JetBrains+Mono&size=18&height=28&width=350&vCenter=true&repeat=false)](https://git.io/typing-svg)
