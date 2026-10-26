@@ -1,6 +1,6 @@
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Love+every+script;Love+every+system;Love+every+terminal;Love+everything&color=ebbcba&font=JetBrains+Mono&size=16&height=30&width=180&center=false&vCenter=true&repeat=true&duration=1500&pause=800" />
-  <img src="https://readme-typing-svg.demolab.com/?lines=+that+runs+on+0+and+1&color=ebbcba&font=JetBrains+Mono&size=16&height=30&width=190&center=false&vCenter=true&repeat=false&duration=1000" />
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Everything+runs+on+0+and+1.+Love+every+&color=ebbcba&font=JetBrains+Mono&size=16&height=30&width=370&center=false&vCenter=true&repeat=false&duration=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=script.;system.;terminal.&color=ebbcba&font=JetBrains+Mono&size=16&height=30&width=100&center=false&vCenter=true&repeat=true&duration=1000&pause=1000" />
 </div>
 
 ---
