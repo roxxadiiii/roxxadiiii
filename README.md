@@ -28,9 +28,11 @@
 
 <div align="left">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=root~%24env&color=9ccfd8&font=JetBrains+Mono&size=18&height=28&width=350&vCenter=true&repeat=false)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=root~%24+env&color=9ccfd8&font=JetBrains+Mono&size=18&height=28&width=350&vCenter=true&repeat=false)](https://git.io/typing-svg)
 <br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python;Bash&color=c4a7e7&font=JetBrains+Mono&size=28&height=45&width=300&vCenter=true&delay=1000&repeat=false)](https://git.io/typing-svg)
+<br>
 </div>
 
 ![Shell](https://img.shields.io/badge/Shell-191724?style=flat-square&logo=gnubash&logoColor=c4a7e7)
